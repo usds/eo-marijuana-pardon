@@ -24,7 +24,7 @@
 
 ## Final output
 
-- (Request form on justice.gov)[https://www.justice.gov/iqextranet/EForm.aspx?__cid=Pardon_prod&__fid=5]
-- (CNN article)[https://www.cnn.com/2023/03/03/politics/pardon-request-application-marijuana-possession/index.html]
-- (DOJ press release)[https://www.justice.gov/opa/pr/justice-department-announces-application-form-marijuana-pardon-certificates]
+- [Request form on justice.gov](https://www.justice.gov/iqextranet/EForm.aspx?__cid=Pardon_prod&__fid=5)
+- [CNN article](https://www.cnn.com/2023/03/03/politics/pardon-request-application-marijuana-possession/index.html)
+- [DOJ press release](https://www.justice.gov/opa/pr/justice-department-announces-application-form-marijuana-pardon-certificates)
 
