@@ -28,3 +28,6 @@
 - [CNN article](https://www.cnn.com/2023/03/03/politics/pardon-request-application-marijuana-possession/index.html)
 - [DOJ press release](https://www.justice.gov/opa/pr/justice-department-announces-application-form-marijuana-pardon-certificates)
 
+## Related work
+
+- Code for America's work on [automatic record clearance](https://codeforamerica.org/programs/criminal-justice/automatic-record-clearance/)
